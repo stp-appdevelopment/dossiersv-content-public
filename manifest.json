@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "edition": 2026,
+  "revision": 1792138072,
+  "minAppBuild": 1,
+  "published": "2026-10-16T08:07:52+00:00",
+  "files": {
+    "de": {
+      "path": "content_de.bin",
+      "sha256": "77482f899d4f7e30ca8d98ce7e9e0916da56a1b26fa63a4145d774a3d51b96bc",
+      "bytes": 17181
+    },
+    "fr": {
+      "path": "content_fr.bin",
+      "sha256": "c19fc6863dabf4d9871b3c63c08fc15f29843cbc14a1b14908579839a4ed85f7",
+      "bytes": 17928
+    },
+    "it": {
+      "path": "content_it.bin",
+      "sha256": "a1aec2c3256fd3639e7d616ea0e5a929b3795b1c45846359b82026670c896f44",
+      "bytes": 17736
+    },
+    "exams": {
+      "path": "exams.bin",
+      "sha256": "d87755c30db483d15448317deee72a9193a13e1a68e9129959e74f828809e14f",
+      "bytes": 404
+    }
+  }
+}
