@@ -1,28 +1,28 @@
 {
   "schema": 1,
   "edition": 2026,
-  "revision": 1792138072,
+  "revision": 1792181196,
   "minAppBuild": 1,
-  "published": "2026-10-16T08:07:52+00:00",
+  "published": "2026-10-16T20:06:36+00:00",
   "files": {
     "de": {
       "path": "content_de.bin",
-      "sha256": "77482f899d4f7e30ca8d98ce7e9e0916da56a1b26fa63a4145d774a3d51b96bc",
+      "sha256": "c69e23fcefbab07f530e403ee5121e5910ba74e92b0b4adf299c9cca1e765b68",
       "bytes": 17181
     },
     "fr": {
       "path": "content_fr.bin",
-      "sha256": "c19fc6863dabf4d9871b3c63c08fc15f29843cbc14a1b14908579839a4ed85f7",
+      "sha256": "5fcd85a9e7a2c6cd93341a8d5d01113813c8c368632c0b8944c481837793d4b2",
       "bytes": 17928
     },
     "it": {
       "path": "content_it.bin",
-      "sha256": "a1aec2c3256fd3639e7d616ea0e5a929b3795b1c45846359b82026670c896f44",
+      "sha256": "e1a73cd0574db4b867765af33f37afb880fe99d9c9b16fd0428e74d7414507b1",
       "bytes": 17736
     },
     "exams": {
       "path": "exams.bin",
-      "sha256": "d87755c30db483d15448317deee72a9193a13e1a68e9129959e74f828809e14f",
+      "sha256": "6bc047b21c09703a3ece01033ce5530399491c53fc88bf324e2365b9feab934d",
       "bytes": 404
     }
   }
